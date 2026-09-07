@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="task_list_title">My Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_details">Task Details</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_name_hint">Enter task name</string>
+    <string name="task_description">Description</string>
+    <string name="task_description_hint">Enter task description (optional)</string>
+    <string name="task_priority">Priority</string>
+    <string name="task_due_date">Due Date</string>
+    <string name="task_status">Status</string>
+    <string name="status_todo">To Do</string>
+    <string name="status_done">Done</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="mark_done">Mark as Done</string>
+    <string name="mark_todo">Mark as To Do</string>
+    <string name="empty_list">No tasks yet.\nTap + to add your first task.</string>
+    <string name="confirm_delete_title">Delete Task</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this task? This action cannot be undone.</string>
+    <string name="task_saved">Task saved successfully</string>
+    <string name="task_updated">Task updated successfully</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="error_empty_name">Task name cannot be empty</string>
+    <string name="filter_all">All</string>
+    <string name="filter_todo">To Do</string>
+    <string name="filter_done">Done</string>
+    <string name="search_hint">Search tasks</string>
+    <string name="select_date">Select due date</string>
+    <string name="no_due_date">No due date</string>
+    <string name="created_at">Created</string>
+    <string name="updated_at">Updated</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="task_count">%1$d tasks</string>
+    <string name="todo_count">%1$d to do</string>
+    <string name="done_count">%1$d done</string>
+</resources>
